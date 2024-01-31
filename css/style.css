@@ -17,7 +17,8 @@ h1 {
 }
 
 .container {
-    margin-left: 45px;
+    max-width: 1200px;
+    margin: auto;
 }
 
 #griglia {
